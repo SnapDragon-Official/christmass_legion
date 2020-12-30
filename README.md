@@ -1,5 +1,7 @@
 # christmass_legion MAPPING FOR FIVEMSOCIETY
 
+https://www.fivemsociety.com/konu/legion-square-yilbasi-isiklari.618/
+
 ### Kurulum:
 
 - Harita
